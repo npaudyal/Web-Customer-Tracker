@@ -51,6 +51,13 @@
 					</tbody>
 				</table>
 				
+				<div style="clear;both;"> 
+					<p>
+				
+					<a href="${pageContext.request.contextPath }/customer/list"> Back to the list</a>
+						</p>
+				</div>
+				
 			</form:form>
 				
 	</div>
